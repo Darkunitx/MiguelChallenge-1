@@ -11,8 +11,3 @@ Nicholas Mamberger https://github.com/NickHM05
 Saiadhuddin Asim   https://github.com/Sal8298
 
 ## License
-<<<<<<< HEAD
-
-adsd
-=======
->>>>>>> d86693acf35667ac91302f01af6c3f4c226a9a2e
