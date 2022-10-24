@@ -1,1 +1,3 @@
-# MiguelChallenge-1
+# Challenge number #1
+
+## This is the very first Website that i have optimized and cleaned up I did not start this from scratch since a skeleton had already been created but i modified various parts of the website including fixing links, making sure that it meets accesibility standards, the elements follow a logical structure independent of styling and positioning and verifying that i used everything i have learned in class so far and applied all of that knowledge here. I have Built the project to test my skills and capabilities with HTML and CSS and to show the world and myself what i am truly capable of. I learnt a lot during the creation/optimization of this website such as additional 
