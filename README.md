@@ -16,10 +16,5 @@ This is the very first Website that i have optimized and cleaned up. I did not s
 
 ## Screenshot
 
-<p align="center">
-  <img src="assets\images\Screenshotnumba1.jpg" title="Top-Half of website">
-  <img src="assets\images\Screenshotnumba2.jpg" title="bottom half of website">
-</p>
-
-![random words](./assets/images/Screenshotnumba1.jpg "Top-Half of website")
-![random words](./assets/images/Screenshotnumba2.jpg "bottom half of website")
+![top portion screenshot](./assets/images/Screenshotnumba1.jpg "Top-Half of website")
+![bottom portion screenshot](./assets/images/Screenshotnumba2.jpg "bottom half of website")
