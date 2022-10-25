@@ -17,5 +17,5 @@ Saiadhuddin Asim   https://github.com/Sal8298
 
 <p align="center">
   <img src="assets\images\Screenshotnumba1.jpg" title="Top-Half of website">
-  <img src="assets\images\Screenshotnumba2.jpg" width="350" title="bottom half of website">
+  <img src="assets\images\Screenshotnumba2.jpg" title="bottom half of website">
 </p>
