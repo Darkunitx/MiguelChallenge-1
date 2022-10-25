@@ -1,3 +1,4 @@
+/* Universal tag */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -74,7 +75,6 @@ p {
     float: left;
     margin-right: 25px;
 }
-
 .float-right {
     float: right;
     margin-left: 25px;

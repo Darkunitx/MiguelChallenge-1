@@ -7,7 +7,15 @@ This is the very first Website that i have optimized and cleaned up. I did not s
 ## Usage
 ## Credits 
 In collaboration with : 
+Miguel Montenegro  https://github.com/Darkunitx
 Nicholas Mamberger https://github.com/NickHM05
 Saiadhuddin Asim   https://github.com/Sal8298
 
 ## License
+
+    ```md
+    ![Top Half of Website](./assets/images/Screenshotnumba1.jpg)
+    ```
+        ```md
+    ![Bottom half of Website](./assets/images/Screenshotnumba2.jpg)
+    ```
