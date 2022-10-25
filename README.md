@@ -21,5 +21,5 @@ This is the very first Website that i have optimized and cleaned up. I did not s
   <img src="assets\images\Screenshotnumba2.jpg" title="bottom half of website">
 </p>
 
-!(./assets\images\Screenshotnumba1.jpg "Top-Half of website")
-!(./assets\images\Screenshotnumba1.jpg "Sbottom half of website")
+!(./assets/images/Screenshotnumba1.jpg "Top-Half of website")
+!(.\assets\images\Screenshotnumba1.jpg "bottom half of website")
