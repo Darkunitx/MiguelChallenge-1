@@ -16,14 +16,6 @@ Saiadhuddin Asim   https://github.com/Sal8298
 ## Screenshot
 
 <p align="center">
-  <img src="assets\images\Screenshotnumba1.jpg" width="350" title="Top-Half of website">
+  <img src="assets\images\Screenshotnumba1.jpg" title="Top-Half of website">
   <img src="assets\images\Screenshotnumba2.jpg" width="350" title="bottom half of website">
 </p>
-
-    ```md
-    ![Top Half of Website](assets\images\Screenshotnumba1.jpg)
-    ```
-
-    ```md
-    ![Bottom half of Website](assets\images\Screenshotnumba2.jpg)
-    ```
