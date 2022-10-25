@@ -6,10 +6,11 @@ This is the very first Website that i have optimized and cleaned up. I did not s
 ## Table of contents
 ## Usage
 ## Credits 
-In collaboration with : 
-Miguel Montenegro  https://github.com/Darkunitx
-Nicholas Mamberger https://github.com/NickHM05
-Saiadhuddin Asim   https://github.com/Sal8298
+
+- In collaboration with : 
+- Miguel Montenegro  https://github.com/Darkunitx
+- Nicholas Mamberger https://github.com/NickHM05
+- Saiadhuddin Asim   https://github.com/Sal8298
 
 ## License
 
@@ -19,3 +20,6 @@ Saiadhuddin Asim   https://github.com/Sal8298
   <img src="assets\images\Screenshotnumba1.jpg" title="Top-Half of website">
   <img src="assets\images\Screenshotnumba2.jpg" title="bottom half of website">
 </p>
+
+!(./assets\images\Screenshotnumba1.jpg "Top-Half of website")
+!(./assets\images\Screenshotnumba1.jpg "Sbottom half of website")
