@@ -13,9 +13,11 @@ Saiadhuddin Asim   https://github.com/Sal8298
 
 ## License
 
+## Screenshot
+
     ```md
-    ![Top Half of Website](./assets/images/Screenshotnumba1.jpg)
+    ![Top Half of Website](assets\images\Screenshotnumba1.jpg)
     ```
         ```md
-    ![Bottom half of Website](./assets/images/Screenshotnumba2.jpg)
+    ![Bottom half of Website](assets\images\Screenshotnumba2.jpg)
     ```
