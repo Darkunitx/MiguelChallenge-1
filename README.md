@@ -22,3 +22,5 @@ This is the very first Website that i have optimized and cleaned up. I did not s
 - Saiadhuddin Asim   https://github.com/Sal8298
 
 ## License
+
+MIT License
