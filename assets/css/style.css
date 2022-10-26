@@ -34,8 +34,8 @@ h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* Font/font size, positioning and additional padding on links in navigation bar */
-.header section {
+/* font size, positioning and additional padding on links in navigation bar */
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -43,7 +43,7 @@ h3 {
     font-size: 20px;
 }
 /* Controls Space/gaps between links in navigation bar */
-.header section ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
     list-style-type: none;
