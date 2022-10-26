@@ -12,6 +12,7 @@
 
 ## Usage
 - <a href="https://darkunitx.github.io/MiguelChallenge-1/">Challenge1 Live Website</a>
+- <a href="https://github.com/Darkunitx/MiguelChallenge-1">Challenge1 Github Repo</a>
 
 ![top portion screenshot](./assets/images/Screenshotnumba1.jpg "Top-Half of website")
 ![bottom portion screenshot](./assets/images/Screenshotnumba2.jpg "bottom half of website")
